@@ -1,4 +1,4 @@
-![](https://oregon.bootcampcontent.com/Oregon_Coding_Bootcamp/uofo-por-data-pt-12-2020-u-c/-/raw/master/02-Homework/21-MachineLearning/Images/exoplanets.jpg)
+[](https://oregon.bootcampcontent.com/Oregon_Coding_Bootcamp/uofo-por-data-pt-12-2020-u-c/-/raw/master/02-Homework/21-MachineLearning/Images/exoplanets.jpg)
 
 # machine-learning-challenge
 
