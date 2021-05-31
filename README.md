@@ -1,3 +1,6 @@
+![](https://oregon.bootcampcontent.com/Oregon_Coding_Bootcamp/uofo-por-data-pt-12-2020-u-c/-/blob/master/02-Homework/21-MachineLearning/Images/exoplanets.jpg)
+
+
 # machine-learning-challenge
 
 This project utilizes data from the NASA Kepler space telescope used to discover potential hidden planets located outside of our solar system ("exoplanet_data.csv"). Within "serena_baker.sav" you will find the file containing the best machine learning model I created, the deep neural network sequential linear regression model.
